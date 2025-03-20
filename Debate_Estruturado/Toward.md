@@ -1,6 +1,6 @@
 # An Experimental Study of Message Strategies for Mobile Alerts and Warnings
 
-Soares, Sidney; Brasileiro, Elizabeth J. Carlson1 e Joshua B. Barbour2. "An Experimental Study of Message Strategies for Mobile Alerts and Warnings," in Software Engineering, vol. 24, no. 3, pp. 1-14, Mar. 2023. doi: [10.1061/NHREFO.NHENG-1721](https://ascelibrary.org/doi/10.1061/NHREFO.NHENG-1721)
+Soares, Sidney; Brasileiro, Thomas Kox, Harald Kempf, Catharina Lüder, Renate Hagedorn, Lars Gerhold. "Towards user-orientated weather warnings," in Interdisciplinary Security Research, Institute of Computer Science, Freie Universität Berlin, Germany, vol. 30, no. 3, pp. 74-80, Set. 2018. doi: [10.1016/j.ijdrr.2018.02.033](https://doi.org/10.1016/j.ijdrr.2018.02.033)
 
 ## 1. Fichamento de Conteúdo
 
