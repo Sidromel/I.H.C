@@ -14,16 +14,10 @@ O artigo aborda como o Dr. Dennis Mileti estudou e desenvolveu métodos para det
 
 ## 3. Fichamento de Citações 
 
-`Aqui devem ser adicionadas as frases mais importantes que aparecem no artigo. Deve ser uma transcrição exata de como estão escritas no artigo, devem ficar entre aspas. Esse fichamento é importante para que possa identificar facilmente como o autor do artigo descreveu um conceito, teoria, método, resultado etc. Deve-se incluir de 3 a 6  itens. Exemplo:`
-
-* 
-* 
-* 
-* 
-* 
-* 
-
-
-
+* _In response to substantial research, the length of WEA messages was expanded (Mileti 2018; Wood et al. 2018), and key elements have been established as fillable fields in the common alerting protocol (CAP)_
+* _Persons have the right to choose, and the communicators' goal is to provide publics with accurate, sufficient, and accessible information so that individuals can make a meaningful choice, a perspective captured in the ethic of significant choice (Nilsen 1966; Sellnow et al. 2012)._
+* _The purpose of the message replications was to control for confounds between the phenomena under study and the particular message stimuli used (Jackson 1992; O'Keefe 2015)._
+* _In comparison with US census data, the sample slightly overrepresented females and persons with college education; however, the distribution of residents of different types of communities was close to the US in general (Parker et al. 2018)._
+* _An important focus of research on public warnings and mobile public warnings has been how to craft messages that encourage an audience to take the risk seriously (e.g., Kim et al. 2019)._
 
 
