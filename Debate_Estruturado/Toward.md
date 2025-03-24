@@ -19,6 +19,3 @@ O artigo discute os desafios e as melhorias necessárias na comunicação de ale
 * _However, the price of this type of probabilistic information can be the risk of misinterpretation or a lack of understanding within the target group [13,17,9]._
 * _The issue of high false alarm rates and its effects on the reaction to warnings (often referred to as cry-wolf-syndrome) is an often discussed topic (e.g. [1,6,23,25]), which was also intensively discussed in all workshops._
 * _One very prominent challenge is the inclusion of new (impact) information sources such as the inclusion of 'ground truth' data on impacts through, e.g. collaborative digital infrastructures in emergency management for information exchange between on-site-units and control centres [14,21,22]_
-
-
-
